@@ -25,7 +25,7 @@ cli                          UNKNOWN                binary
 cli-32                       UNKNOWN                binary                         
 cli-64                       UNKNOWN                binary                         
 cli-arm64                    UNKNOWN                binary                         
-composer                     2.9.8                  binary                         
+composer                     2.10.0                 binary                         
 confuse                      1.6.0                  python                         
 coreutils                    9.5-r2                 apk                            
 coreutils-env                9.5-r2                 apk                            
@@ -45,7 +45,7 @@ gui                          UNKNOWN                binary
 gui-32                       UNKNOWN                binary                         
 gui-64                       UNKNOWN                binary                         
 gui-arm64                    UNKNOWN                binary                         
-idna                         3.17                   python                         
+idna                         3.18                   python                         
 importlib-metadata           8.0.0                  python                         
 inflect                      7.3.1                  python                         
 jaraco-collections           5.1.0                  python                         
@@ -111,7 +111,7 @@ php83-sqlite3                8.3.15-r0              apk
 php83-xml                    8.3.15-r0              apk                            
 php83-xmlwriter              8.3.15-r0              apk                            
 php83-zip                    8.3.15-r0              apk                            
-pip                          26.1.1                 python                         
+pip                          26.1.2                 python                         
 platformdirs                 4.2.2                  python                         
 popt                         1.19-r3                apk                            
 procps-ng                    4.0.4-r0               apk                            
